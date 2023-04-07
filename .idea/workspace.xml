@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v1">
-      <change afterPath="$PROJECT_DIR$/src/f4/Trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f4/Trees/TreesUse.java" afterDir="false" />
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,19 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="01ffcfac-9cf4-4189-8008-1aa6ca9f9cdf" />
+        <option name="url" value="https://github.com/Manas-33/Java_QA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,7 +56,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/Java_QA/src/f4/BinaryTrees",
+    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/Java_QA",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -152,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680182244817</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="f4 v2">
+      <created>1680328622497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680328622497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +202,7 @@
     <MESSAGE value="f3 v2" />
     <MESSAGE value="f3 v3" />
     <MESSAGE value="f4 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="f4 v1" />
+    <MESSAGE value="f4 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="f4 v2" />
   </component>
 </project>
