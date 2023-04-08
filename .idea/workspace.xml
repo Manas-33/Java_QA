@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v3">
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/Java_QA/src/f4",
+    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/Java_QA/src/f4/hashmaps",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -66,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4\hashmaps" />
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4" />
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4\BinaryTrees" />
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f3" />
@@ -192,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680855969984</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="f4 v4">
+      <created>1680893920988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680893920988</updated>
+    </task>
+    <task id="LOCAL-00009" summary="f4 v4">
+      <created>1680893962760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680893962760</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +241,7 @@
     <MESSAGE value="f4 v1" />
     <MESSAGE value="f4 v2" />
     <MESSAGE value="f4 v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="f4 v3" />
+    <MESSAGE value="f4 v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="f4 v4" />
   </component>
 </project>
