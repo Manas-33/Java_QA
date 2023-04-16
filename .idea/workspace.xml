@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680980997019</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="f4 v6">
+      <created>1681496195771</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681496195771</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +255,7 @@
     <MESSAGE value="f4 v3" />
     <MESSAGE value="f4 v4" />
     <MESSAGE value="f4 v5" />
-    <option name="LAST_COMMIT_MESSAGE" value="f4 v5" />
+    <MESSAGE value="f4 v6" />
+    <option name="LAST_COMMIT_MESSAGE" value="f4 v6" />
   </component>
 </project>
