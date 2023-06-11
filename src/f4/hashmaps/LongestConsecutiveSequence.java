@@ -11,10 +11,23 @@ public class LongestConsecutiveSequence {
         HashMap<Integer,Boolean>map=new HashMap<>();
 
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i]+1==arr[i+1]){
-                map.put(2,true);
+            if(i+1<arr.length){
+                if(arr[i]+1==arr[i+1]){
+                    map.put(2,true);
+                }
             }
+
         }
-        return new ArrayList<>();
+        ArrayList<Integer> keysList = new ArrayList<>(map.keySet());
+        return keysList;
+    }
+
+    public static void main(String[] args) {
+        int[] arr ={49, 1, 3, 200, 2, 4, 70, 5};
+        ArrayList<Integer>result=longestConsecutiveIncreasingSequence(arr);
+        for (Integer i:
+             result) {
+            System.out.println(result);
+        }
     }
 }

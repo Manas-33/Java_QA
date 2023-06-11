@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v7" />
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="f4 v8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f3/OOPS2/VehicleUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f3/OOPS2/VehicleUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f3/OOPS3/Gadi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f3/OOPS3/Gadi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f3/OOPS3/VahanUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f3/OOPS3/VahanUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f4/hashmaps/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f4/hashmaps/LongestConsecutiveSequence.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,11 +62,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Documents/Java_QA/src/f4/hashmaps&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Documents/type_racer&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -71,26 +80,13 @@
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CPUScheduling">
-    <configuration name="CPUScheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f4.BST.CPUScheduling" />
+  <component name="RunManager" selected="Application.Arrange">
+    <configuration name="Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f2.Arrays1.Arrange" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="f4.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTypesStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f1.lecture3.DataTypesStorage" />
-      <module name="Java_QA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="f1.lecture3.*" />
+          <option name="PATTERN" value="f2.Arrays1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f1.lecture2.Main" />
+      <option name="MAIN_CLASS_NAME" value="ls.Main" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="f1.lecture2.*" />
+          <option name="PATTERN" value="ls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreesUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f4.Trees.TreesUse" />
+    <configuration name="NumberAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls.NumberAddition" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="f4.Trees.*" />
+          <option name="PATTERN" value="ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls.Solution" />
+      <module name="Java_QA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls.gui" />
+      <module name="Java_QA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,10 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CPUScheduling" />
-        <item itemvalue="Application.TreesUse" />
+        <item itemvalue="Application.Arrange" />
+        <item itemvalue="Application.NumberAddition" />
+        <item itemvalue="Application.gui" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DataTypesStorage" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681667632825</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="f4 v8">
+      <created>1681928992010</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681928992010</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +294,7 @@
     <MESSAGE value="f4 v5" />
     <MESSAGE value="f4 v6" />
     <MESSAGE value="f4 v7" />
-    <option name="LAST_COMMIT_MESSAGE" value="f4 v7" />
+    <MESSAGE value="f4 v8" />
+    <option name="LAST_COMMIT_MESSAGE" value="f4 v8" />
   </component>
 </project>

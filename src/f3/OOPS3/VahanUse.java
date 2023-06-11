@@ -1,6 +1,7 @@
 package f3.OOPS3;
 
 
+import f3.OOPS2.Vehicle;
 
 public class VahanUse {
     public static void main(String[] args) {

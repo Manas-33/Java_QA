@@ -1,7 +1,6 @@
 package f3.OOPS3;
 
 public class Gadi extends Vahan implements VahanInterface, GadiInterface{
-
     @Override
     public boolean isMotorized() {
         return false;
@@ -16,6 +15,5 @@ public class Gadi extends Vahan implements VahanInterface, GadiInterface{
     public int numGears() {
         return 0;
     }
-
 
 }
