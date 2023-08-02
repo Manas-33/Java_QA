@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Non AI">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" afterDir="false" />
-    </list>
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="tic tac toe AI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Assignment1AI (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Assignment1AI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.Assignment1AI" />
       <module name="Java_QA" />
@@ -117,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f1.lecture2.DataTypes" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyberSecurity.Main" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="f1.lecture2.*" />
+          <option name="PATTERN" value="CyberSecurity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Assignment1AI (1)" />
         <item itemvalue="Application.Assignment1AI" />
         <item itemvalue="Application.Assignment1NonAI" />
         <item itemvalue="Application.NthFibonacci" />
-        <item itemvalue="Application.DataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690654522774</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="tic tac toe AI">
+      <created>1690655064985</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690655064985</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +328,7 @@
     <MESSAGE value="f2 v2" />
     <MESSAGE value="fix" />
     <MESSAGE value="Non AI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Non AI" />
+    <MESSAGE value="tic tac toe AI" />
+    <option name="LAST_COMMIT_MESSAGE" value="tic tac toe AI" />
   </component>
 </project>
