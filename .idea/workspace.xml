@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="DES cs" />
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="AES key generation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyberSecurity/AES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyberSecurity/AES.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691000976766</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="AES key generation">
+      <created>1691001096681</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1691001096681</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +347,7 @@
     <MESSAGE value="Non AI" />
     <MESSAGE value="tic tac toe AI" />
     <MESSAGE value="DES cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="DES cs" />
+    <MESSAGE value="AES key generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="AES key generation" />
   </component>
 </project>

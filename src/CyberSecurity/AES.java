@@ -85,6 +85,39 @@ class RunClass{
     public static void main(String[] args) {
         int[] key16Bit = new int[16];
         AES a = new AES();
-    }
+//        int[][] keys = a.keyGeneration(key16Bit);
+//        int[] p = {1,0,1,0,1,1,0,1};
+//        a.subNibRotNib(p);
+//
+//        int[] p = new int[8];
+//        Scanner s  = new Scanner(System.in);
+//        for (int i = 0; i < 10; i++) {
+//            key10Bit[i]=s.nextInt();
+//        }
+//        for (int i = 0; i < 8; i++) {
+//            p[i]=s.nextInt();
+//        }
+//        int[] key10Bit = {0,0,1,0,0,1,0,1,1,1};
+//        int[] p = {1,0,1,0,0,1,0,1};
+//        DES d = new DES();
+//        int[][] keys= d.keyGeneration(key10Bit);
+//        for (int i = 0; i < keys.length; i++) {
+//            System.out.print("Key "+(i+1)+" : ");
+//            for (int j = 0; j < keys[0].length; j++) {
+//                System.out.print(keys[i][j]+" ");
+//            }
+//            System.out.println();
+//        }
+//        int [] cipherText = d.cipherGeneration(p,keys[0],keys[1]);
+//        System.out.println("The cipher text is : ");
+//        for (int i = 0; i < cipherText.length; i++) {
+//            System.out.print(cipherText[i]+" ");
+//        }
+//        System.out.println();
+//        int[] plainText = d.cipherGeneration(cipherText,keys[1],keys[0]);
+//        System.out.println("The plain text is : ");
+//        for (int i = 0; i < plainText.length; i++) {
+//            System.out.print(plainText[i]+" ");
+}
 }
 
