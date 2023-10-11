@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="AES key generation v2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,13 +74,13 @@
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GraphFrame">
-    <configuration name="Assignment1AI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.Assignment1AI" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Assignment_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment1.Assignment_1" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArtificialIntelligence.*" />
+          <option name="PATTERN" value="ComputerNetworks.Assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment1.Assignment_1" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment3.Client" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment1.*" />
+          <option name="PATTERN" value="ComputerNetworks.Assignment3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CyberSecurity.Main" />
-      <module name="Java_QA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CyberSecurity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RunClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CyberSecurity.RunClass" />
       <module name="Java_QA" />
@@ -142,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment3.Server" />
+      <module name="Java_QA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComputerNetworks.Assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.GraphFrame" />
         <item itemvalue="Application.Assignment_1" />
         <item itemvalue="Application.RunClass" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Assignment1AI (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691605418143</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Computer Networks Assignment 1">
+      <created>1697052523656</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697052523656</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,6 +360,7 @@
     <MESSAGE value="DES cs" />
     <MESSAGE value="AES key generation" />
     <MESSAGE value="AES key generation v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="AES key generation v2" />
+    <MESSAGE value="Computer Networks Assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 1" />
   </component>
 </project>
