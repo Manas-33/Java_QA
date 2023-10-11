@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 1" />
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -313,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697052523656</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Computer Networks Assignment 2">
+      <created>1697052718004</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697052718004</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +368,7 @@
     <MESSAGE value="AES key generation" />
     <MESSAGE value="AES key generation v2" />
     <MESSAGE value="Computer Networks Assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 1" />
+    <MESSAGE value="Computer Networks Assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 2" />
   </component>
 </project>
