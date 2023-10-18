@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 2">
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/Assignment_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/Assignment_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Documents/type_racer&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Desktop/Conference-call-using-UDP-in-Java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -76,13 +79,13 @@
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Udpclient2">
-    <configuration name="ComputerNetworks.Assignment5.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment5.Client" />
+  <component name="RunManager" selected="Application.Conference_three_three">
+    <configuration name="Conference_three_one (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment5.*" />
+          <option name="PATTERN" value="ComputerNetworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerNetworks.Assignment5.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment5.Server" />
+    <configuration name="Conference_three_one (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment5.*" />
+          <option name="PATTERN" value="ComputerNetworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udpclient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment6.Udpclient1" />
+    <configuration name="Conference_three_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment6.*" />
+          <option name="PATTERN" value="ComputerNetworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udpclient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment6.Udpclient2" />
+    <configuration name="Conference_three_three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_three" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment6.*" />
+          <option name="PATTERN" value="ComputerNetworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udpserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Assignment6.Udpserver" />
+    <configuration name="Conference_three_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_two" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.Assignment6.*" />
+          <option name="PATTERN" value="ComputerNetworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Udpclient2" />
-        <item itemvalue="Application.Udpclient1" />
-        <item itemvalue="Application.Udpserver" />
-        <item itemvalue="Application.ComputerNetworks.Assignment5.Client" />
-        <item itemvalue="Application.ComputerNetworks.Assignment5.Server" />
+        <item itemvalue="Application.Conference_three_three" />
+        <item itemvalue="Application.Conference_three_two" />
+        <item itemvalue="Application.Conference_three_one (3)" />
+        <item itemvalue="Application.Conference_three_one" />
+        <item itemvalue="Application.Conference_three_one (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +325,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697052718004</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Computer Networks Assignment 4">
+      <created>1697053909955</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697053909955</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Computer Networks Assignment 5">
+      <created>1697054059116</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1697054059116</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Computer Networks Assignment 6">
+      <created>1697054211009</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1697054211009</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,6 +395,9 @@
     <MESSAGE value="AES key generation v2" />
     <MESSAGE value="Computer Networks Assignment 1" />
     <MESSAGE value="Computer Networks Assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 2" />
+    <MESSAGE value="Computer Networks Assignment 4" />
+    <MESSAGE value="Computer Networks Assignment 5" />
+    <MESSAGE value="Computer Networks Assignment 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 6" />
   </component>
 </project>

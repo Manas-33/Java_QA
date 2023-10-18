@@ -111,6 +111,7 @@ public class Assignment1AI {
         else
             System.out.println("Draw Match!");
     }
+
     public int minimax(int depth, int turn) {
 
         if (has1Won())
@@ -142,7 +143,7 @@ public class Assignment1AI {
                     resetGameMove(gameMove);
                     break;
                 }
-                if (i == availableGameMoves.size() - 1 && max > 0) {
+                if (i == availableGameMoves.size() - 1 && max > 0) {    
                     if (depth == 0)
                         computersGameMove = gameMove;
                 }

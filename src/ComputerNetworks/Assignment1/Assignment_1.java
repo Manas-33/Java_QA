@@ -423,7 +423,7 @@ public class Assignment_1 extends JFrame{
 
         JPanel centerPanel = new JPanel(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
-        centerPanel.setBackground(new Color(70, 139, 151));
+        centerPanel.setBackground(new Color(200, 139, 151));
 
         label = new JLabel("Digital Sequence");
         gbc.gridx = 0;
@@ -439,7 +439,7 @@ public class Assignment_1 extends JFrame{
         centerPanel.add(textField, gbc);
 
         String[] options = {"Uni-polar NRZ", "Bi-Polar NRZ-L", "Bi-Polar NRZ-I", "Polar Z", "Bi-Polar AMI",
-                "Pseudo-Ternary", "Manchester", "Differentail Manchester", "MLT-3"};
+                "Pseudo-Ternary", "Manchester", "Differential Manchester", "MLT-3"};
         comboBox = new JComboBox<>(options);
         gbc.gridx = 0;
         gbc.gridy = 2;
