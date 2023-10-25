@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Computer Networks Assignment 6">
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="AI Assignment 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/Assignment_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/Assignment_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,7 +343,35 @@
       <option name="project" value="LOCAL" />
       <updated>1697054211009</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="AI Assignments">
+      <created>1697658329180</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1697658329180</updated>
+    </task>
+    <task id="LOCAL-00028" summary="AI Assignment 2">
+      <created>1697658355481</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1697658355481</updated>
+    </task>
+    <task id="LOCAL-00029" summary="AI Assignment 3">
+      <created>1697658374373</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1697658374373</updated>
+    </task>
+    <task id="LOCAL-00030" summary="AI Assignment 4">
+      <created>1697658384924</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1697658384924</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,10 +398,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="f1" />
-    <MESSAGE value="f3 v1" />
-    <MESSAGE value="f3 v2" />
-    <MESSAGE value="f3 v3" />
     <MESSAGE value="f4 v1" />
     <MESSAGE value="f4 v2" />
     <MESSAGE value="f4 v3" />
@@ -398,6 +419,10 @@
     <MESSAGE value="Computer Networks Assignment 4" />
     <MESSAGE value="Computer Networks Assignment 5" />
     <MESSAGE value="Computer Networks Assignment 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Computer Networks Assignment 6" />
+    <MESSAGE value="AI Assignments" />
+    <MESSAGE value="AI Assignment 2" />
+    <MESSAGE value="AI Assignment 3" />
+    <MESSAGE value="AI Assignment 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI Assignment 4" />
   </component>
 </project>
