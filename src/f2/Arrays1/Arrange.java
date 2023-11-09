@@ -3,12 +3,10 @@ package f2.Arrays1;
 public class Arrange {
     public static void arrange(int[] arr, int n) {
         int start =0;
-
         for(int i=1;i<=n;i+=2){
             arr[start]=i;
             start++;
         }
-
         int end=0;
         if(n%2==0) end=n;
         else end=n-1;
