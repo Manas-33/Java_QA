@@ -1,7 +1,9 @@
-package ArtificialIntelligence;
+package ArtificialIntelligence.Assignment1;
+
+import java.util.Scanner;
 
 public class Assignment4 {
-    static final int N = 5;
+    static int N = 8;
     static int[][] board = new int[N][N];
 
     public static void main(String[] args) {

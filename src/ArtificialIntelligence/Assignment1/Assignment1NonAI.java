@@ -1,5 +1,5 @@
-package ArtificialIntelligence;
-import java.util.Scanner;
+package ArtificialIntelligence.Assignment1;
+//import java.util.Scanner;
 //
 //public class Assignment1NonAI {
 //    private static final int[][] MAGIC_SQUARE = {
@@ -114,7 +114,7 @@ import java.util.Scanner;
 //    }
 //
 //}
-
+//
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ArtificialIntelligence;
+package ArtificialIntelligence.Assignment1;
 
 import java.util.*;
 
