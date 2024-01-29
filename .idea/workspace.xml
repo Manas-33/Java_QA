@@ -4,58 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/CryptarithmeticCSP.java" afterDir="false" />
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="AI 4">
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/Nqueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/sudoku.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/MissionaryCannibalBFSDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/astar.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/bestfirstsearch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/Assignment6.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/assignment5.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/assignment52.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/expert.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/facts.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/family.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/8-Puzzle Problem.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Block-Word.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Medical-Diagnosis Problem.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Monkey-Banana.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Tower_of_hanoi.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/water jug.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/predicate.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/TicTacToeAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/TicTacToeNonAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleAStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleDFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/bfs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/eightPuzzleAStar.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/monkeybanana/monkeybananaBFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationAStar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationBFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugAStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/usingDFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/MagicSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/WaterJugBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/WaterJugProblem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/f2/Arrays2/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/Assignment1AI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment1NonAI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment3BF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment3BF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/GameMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/WaterJugBFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CyberSecurity/DES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyberSecurity/DES.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/f2/Arrays2/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays2/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/f2/Arrays2/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays2/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,21 +61,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/amazon_clone",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Documents/amazon_clone&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\ArtificialIntelligence\All\Prolog" />
@@ -453,7 +411,56 @@
       <option name="project" value="LOCAL" />
       <updated>1699569100444</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Prolog 1">
+      <created>1706542362966</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542362966</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Prolog 2">
+      <created>1706542400311</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542400311</updated>
+    </task>
+    <task id="LOCAL-00037" summary="cpp">
+      <created>1706542451146</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542451146</updated>
+    </task>
+    <task id="LOCAL-00038" summary="ai 1">
+      <created>1706542548391</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542548391</updated>
+    </task>
+    <task id="LOCAL-00039" summary="AI 2">
+      <created>1706542606979</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542606979</updated>
+    </task>
+    <task id="LOCAL-00040" summary="AI 3">
+      <created>1706542637543</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542637543</updated>
+    </task>
+    <task id="LOCAL-00041" summary="AI 4">
+      <created>1706542653447</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542653447</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,13 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="f4 v6" />
-    <MESSAGE value="f4 v7" />
-    <MESSAGE value="f4 v8" />
-    <MESSAGE value="f4 v9" />
-    <MESSAGE value="f2 v2" />
-    <MESSAGE value="fix" />
-    <MESSAGE value="Non AI" />
     <MESSAGE value="tic tac toe AI" />
     <MESSAGE value="DES cs" />
     <MESSAGE value="AES key generation" />
@@ -505,6 +505,13 @@
     <MESSAGE value="MD5" />
     <MESSAGE value="Arrays1" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="Prolog 1" />
+    <MESSAGE value="Prolog 2" />
+    <MESSAGE value="cpp" />
+    <MESSAGE value="ai 1" />
+    <MESSAGE value="AI 2" />
+    <MESSAGE value="AI 3" />
+    <MESSAGE value="AI 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI 4" />
   </component>
 </project>
