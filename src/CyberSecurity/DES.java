@@ -147,8 +147,10 @@ class Main{
 //        for (int i = 0; i < 8; i++) {
 //            p[i]=s.nextInt();
 //        }
-        int[] key10Bit = {0,0,1,0,0,1,0,1,1,1};
-        int[] p = {1,0,1,0,0,1,0,1};
+//        1010000010
+//        01000001
+        int[] key10Bit = {1,0,1,0,0,0,0,0,1,0};
+        int[] p = {0,1,0,0,0,0,0,1};
         DES d = new DES();
         int[][] keys= d.keyGeneration(key10Bit);
         for (int i = 0; i < keys.length; i++) {
