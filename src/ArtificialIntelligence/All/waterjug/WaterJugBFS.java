@@ -1,8 +1,8 @@
-package ArtificialIntelligence;
+package ArtificialIntelligence.All.waterjug;
 
 import java.util.*;
 
-class State1 { 
+class State1 {
     int jug1;
     int jug2;
     ArrayList<String> steps;

@@ -4,11 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="Diffie Hellman Cyber-Security">
+    <list default="true" id="68172d08-b44a-41b6-a4ed-c9177b63dedc" name="Changes" comment="..">
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/CryptarithmeticCSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/Nqueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/CSP/sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/MissionaryCannibalBFSDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/astar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/MissionaryCannibal/bestfirstsearch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/Assignment6.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/assignment5.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/assignment52.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/expert.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/facts.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/family.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/8-Puzzle Problem.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Block-Word.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Medical-Diagnosis Problem.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Monkey-Banana.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/Tower_of_hanoi.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/other/water jug.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/Prolog/predicate.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/TicTacToeAI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/TicTacToeNonAI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleAStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/EightPuzzleDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/bfs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/eightpuzzle/eightPuzzleAStar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/monkeybanana/monkeybananaBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationAStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/robotnav/robotnavigationDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugAStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/WaterJugDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/waterjug/usingDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/MagicSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/WaterJugBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComputerNetworks/Assignment1/WaterJugProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f2/Arrays2/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CyberSecurity/AES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyberSecurity/AES.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/f2/Arrays1/Arrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays1/Arrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/f2/Arrays1/TripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays1/TripletSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/All/TicTacToe/Assignment1AI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1NonAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment1NonAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment3BF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment3BF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArtificialIntelligence/Assignment1/Assignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/GameMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArtificialIntelligence/WaterJugBFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyberSecurity/DES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyberSecurity/DES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f2/Arrays2/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays2/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f2/Arrays2/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f2/Arrays2/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,37 +103,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalvi/OneDrive/Desktop/Conference-call-using-UDP-in-Java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/dalvi/OneDrive/Documents/amazon_clone",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\ArtificialIntelligence\All\Prolog" />
+      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\ArtificialIntelligence\All\Prolog\other" />
+      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\ArtificialIntelligence\All" />
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4\hashmaps" />
       <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4" />
-      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f4\BinaryTrees" />
-      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f3" />
-      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\f1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dalvi\OneDrive\Documents\Java_QA\src\ArtificialIntelligence\Assignment1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Conference_three_three">
-    <configuration name="Conference_three_one (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
+  <component name="RunManager" selected="Application.monkeybananaBFS">
+    <configuration name="WaterJugAStar (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.All.waterjug.WaterJugAStar" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.*" />
+          <option name="PATTERN" value="ArtificialIntelligence.All.waterjug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conference_three_one (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
+    <configuration name="WaterJugBFS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.All.waterjug.WaterJugBFS" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.*" />
+          <option name="PATTERN" value="ArtificialIntelligence.All.waterjug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conference_three_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_one" />
+    <configuration name="WaterJugDFS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.All.waterjug.WaterJugDFS" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.*" />
+          <option name="PATTERN" value="ArtificialIntelligence.All.waterjug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conference_three_three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_three" />
+    <configuration name="WaterJugDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.All.waterjug.WaterJugDFS" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.*" />
+          <option name="PATTERN" value="ArtificialIntelligence.All.waterjug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conference_three_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputerNetworks.Conference_three_two" />
+    <configuration name="monkeybananaBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.All.monkeybanana.monkeybananaBFS" />
       <module name="Java_QA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComputerNetworks.*" />
+          <option name="PATTERN" value="ArtificialIntelligence.All.monkeybanana.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Conference_three_three" />
-        <item itemvalue="Application.Conference_three_two" />
-        <item itemvalue="Application.Conference_three_one (3)" />
-        <item itemvalue="Application.Conference_three_one" />
-        <item itemvalue="Application.Conference_three_one (2)" />
+        <item itemvalue="Application.monkeybananaBFS" />
+        <item itemvalue="Application.WaterJugDFS" />
+        <item itemvalue="Application.WaterJugDFS (1)" />
+        <item itemvalue="Application.WaterJugBFS (1)" />
+        <item itemvalue="Application.WaterJugAStar (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698213169711</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="MD5">
+      <created>1699569079521</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1699569079521</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Arrays1">
+      <created>1699569100444</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699569100444</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,9 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="f4 v3" />
-    <MESSAGE value="f4 v4" />
-    <MESSAGE value="f4 v5" />
     <MESSAGE value="f4 v6" />
     <MESSAGE value="f4 v7" />
     <MESSAGE value="f4 v8" />
@@ -441,6 +502,9 @@
     <MESSAGE value="AI Assignment 4" />
     <MESSAGE value="RSA Cyber-Security" />
     <MESSAGE value="Diffie Hellman Cyber-Security" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diffie Hellman Cyber-Security" />
+    <MESSAGE value="MD5" />
+    <MESSAGE value="Arrays1" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
